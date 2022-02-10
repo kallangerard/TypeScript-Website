@@ -658,10 +658,10 @@
               "default": false
             },
             "allowJs": {
-              "description": "Allow JavaScript files to be a part of your program. Use the `checkJS` option to get errors from these files.",
+              "description": "Allow JavaScript files to be a part of your program. Use the `checkJs` option to get errors from these files.",
               "type": "boolean",
               "default": false,
-              "markdownDescription": "Allow JavaScript files to be a part of your program. Use the `checkJS` option to get errors from these files.\n\nSee more: https://www.typescriptlang.org/tsconfig#allowJs"
+              "markdownDescription": "Allow JavaScript files to be a part of your program. Use the `checkJs` option to get errors from these files.\n\nSee more: https://www.typescriptlang.org/tsconfig#allowJs"
             },
             "noErrorTruncation": {
               "description": "Disable truncating types in error messages.",
